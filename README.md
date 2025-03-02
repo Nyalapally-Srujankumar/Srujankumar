@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nyalapally srujankumar and I'm a Full stackdeveloper, from ....</h2>
+<h2 align="left">Hi 👋! My name is Nyalapally srujankumar and I'm a Frontend developer, from  ....</h2>
 
 ###
 
